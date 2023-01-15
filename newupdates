@@ -1,27 +1,81 @@
-- Money Washing IPL
-- Car trailer heist fixes
-- Money Washing location fixes
-- Vehicle Handling Fixes
-- Radial Cleanup and New Features.
-- Media Player function for media objections feature.
-- New Sit function on most seats around the city. WIP
-- New Boat Trailer Feature
-- QB-Target Changes and Fixes
-- More Discord Changed and fixes
-- Added Italian Restaurant
-- 2 Digital Den locations
-- Mini Golf MLO WIP
-- Pearls Pier Restaurant Job and MLO
-- Updated Madrazo Mansion
-- Rockford Records WIP
-- White Widow MLO and Script In
-- AdminMenu update WIP
-- Casino Construction and fixed IPL issues WIP
-- MASSIVE Judge job and Governement system update
-- New Loading Screen
-- New Maze Bank Arena Event Options
-- TargetEye has shrunk slightly.
-- Tequilala MLO
-- Casino IPL
-- Casino Hesit Update
-- Fixes and features.
+- New loading in / new character experience
+- Paintball
+- New Paleto Airport
+- New hotel system
+- Trains removed.
+- Added Stop sign Robbery.
+- Breaking Cuffs is Configured and you now have a chance to break cuffs!
+- Fixed various locks.
+- Adjusted Down How Much Ped Population there is on foot and in vehicles.
+- Hats and glasses will not fall off but you can still take them off. 
+- Yoga Matts starting to pop up in some places familiar around the city.
+- Progress Bar Update
+- UI updates.
+- ThirdEye colors modified.
+- UPDATED ITEMS IN JIM MECHANICS - MECHANICS NOW HAVE TO USE THE STORES AND CRAFTING. SOME ITEMS ARE ONLY AVAILABLE VIA THE SHOP STORE
+- Adjusted shop prices
+-  Adjusted quantity of materials used to craft parts.
+- Adjusted item re-usage.
+-  Vehicle repairs can be done by standing next to the vehicle (no need to have mats on your person).
+- ADDED- Boats! (You can now buy boats at the boat dealership down by the docks)
+- ADDED- Yachts (For the High Rollers of the city, they aren't cheap) 
+- ADDED- Paleto Airport
+- ADDED- Coast Guard (Sub Dept of SAFR)
+- ADDED- Boat Trailer Script (Works with most boats and trailers assigned to the boat)
+- ADDED- Los Diablos Compound to Stab City (Freeing up almost all MLOs in Paleto besides two)
+- PD ThirdEye to other Player Job Functions added
+- /fps command added for performance tweaks that may help Players with slower systems
+- Firing Modes Added - Single, Burst, Full Auto, Safety - **Keybind [C]**
+- Forgeryoffice Added-- NOT TESTED-- NOT LIVE
+-  VehicleKeys- ThirdEye/RadialMenu - Fixed/Optimized
+- GiveCash Through ThirdEye 
+- Updated Fleeca Bank Heists 
+- Updated Pacific Bank Heist - New Bank MLO and heist
+- Added 2nd Vangelico Jewelry Store Heist
+- Jim-WhiteWidow 
+- CargoShip Heist Updated  
+- Notifications/Reconfigured
+- Madrazo Heist Updated
+-  Notifications/Reconfigured
+- New Carboosting Script Updated 
+- Forklift Job and Warehouse MLO Configured
+- Peds and ThirdEye Interactions added for forklift job
+- LoadingScreen UI color Update
+- ATM UI Color Update
+- Banking UI Color Update
+- PS-UI Circle Color Update
+- QB-Lock UI Circle Color Update
+- Added Lighting System for Traffic Lights - To sync entities and patterns with all players
+- Added Casino Heist
+- Fixed Digital Den and Gold Buy peds
+- Pacific Bank Ped added and Payroll Ped moved
+- Signrobbery Update - Functions optimized
+- Modified Police Alerts on above heists
+- Fishing - Fixed
+- Adjusted Parked Vehicles, AI Vehicles, Peds, and Scenario Ped Densities
+- Job Fixes - Database and Code updates
+- Lightshow Controller For Asgard
+- RadialMenu - Asgard Job Options
+- QB-Target .js error fixed
+- ThirdEye color adjustments
+- Progressbar Fix
+- Progressbar Color Update
+- RadialMenu Color Update
+- QB-Spawn Colors Update
+- QB-Input Colors Update
+- QB-Menu Color update
+- Cityhall Menu Color Update
+- Inventory CSS Edits - Rounded edges and color Update
+-  Gavel Interaction and sound feature added to Judge Stand
+-  Fixed various locations for Judge Job
+-  DPemotes patch for Signs
+- New Command for Admins for giving the clothing menu to players so you don't have to search the list!
+- Command: /clothing [playerid]
+
+ :hellarrowred24: FIX- Weekly Handling update
+:hellarrowred24: FIX- Other minor bug fixes across the city
+:hellarrowred24: Removed Paleto Bank Heist - Reworking 
+
+**Push to Next Week**
+:Blue_Arrow_Right: Brining Tow Vehicles to Mechanic Shops
+:Blue_Arrow_Right: Large Clothing Pack Update 
